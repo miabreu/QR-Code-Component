@@ -9,8 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  - [What I Learned](#what-i-learned)
 
 ## Overview
 
@@ -37,28 +36,25 @@ Overall, the screenshot displays the functionality of the QR code component, all
 - SASS
 
 
-### What I learned
+### What I Learned
 
-I learned how to design and implement a user interface using HTML, CSS, and JavaScript.
+I learned how to design and implement a user interface using HTML, CSS, and SASS.
 To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
+
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
+```
+.form button {
+  padding: 10px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
+This code sets up the style for the "Generate QR Code" button in the input form component. It specifies a padding, font size, border radius, and background color, among other things, to give the button a modern and sleek appearance. The transition property adds a smooth transition effect when the user hovers over the button.
