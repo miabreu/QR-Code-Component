@@ -39,8 +39,7 @@ Overall, the screenshot displays the functionality of the QR code component, all
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+I learned how to design and implement a user interface using HTML, CSS, and JavaScript.
 To see how you can add code snippets, see below:
 
 ```html
