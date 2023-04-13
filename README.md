@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My Process](#my-process)
   - [Built with](#built-with)
   - [What I Learned](#what-i-learned)
 
@@ -24,7 +24,7 @@ Overall, the screenshot displays the functionality of the QR code component, all
 - Solution URL: [Github](https://github.com/miabreu/QR-Code-Component)
 - Live Site URL: [Site](https://endearing-shortbread-a98e57.netlify.app)
 
-## My process
+## My Process
 
 ### Built with
 
