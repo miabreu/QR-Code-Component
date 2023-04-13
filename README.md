@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
-  - [What I Learned](#what-i-learned)
+  - [Takeaways](#what-i-learned)
 
 ## Overview
 
@@ -36,10 +36,9 @@ Overall, the screenshot displays the functionality of the QR code component, all
 - SASS
 
 
-### What I Learned
+### Takeaways
 
-I learned how to design and implement a user interface using HTML, CSS, and SASS.
-To see how you can add code snippets, see below:
+It was a great refresh on how to design and implement a user interface using HTML, CSS, and SASS.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
